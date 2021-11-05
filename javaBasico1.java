@@ -1,6 +1,6 @@
 package com.company;
 
-public class JavaBasico1 {
+public class Main {
 
     public static void main(String[] args) {
         //Ejercicio Sesión 1 --> Para este primer ejercicio tendréis que realizar lo siguiente:
